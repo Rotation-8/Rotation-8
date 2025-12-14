@@ -11,7 +11,7 @@ Game engine enthusiast who enjoys building systems close to the metal.
 - **C#** — tools, utilities, and application development  
 - **Python** — scripting, automation, and rapid prototyping  
 - **Blender** — 3D asset creation and pipeline familiarity  
-- **SDL** — windowing, input, and cross-platform multimedia foundations  
+- **SDL** — windowing, input, and cross-platform multimedia foundations, including 2D rendering, textures, audio... 
 
 ### Interests
 - Game engine programming and engine architecture  
