@@ -3,7 +3,7 @@
 
 Game engine enthusiast who enjoys building systems close to the metal.
 <p align="left">
-<img src="assets/pfp-pixel.png" width="280" alt="pfp-pixel">
+<img src="assets/pfp2-pixel.png" width="280" alt="pfp-pixel">
 </p>
 
 ### Skills
